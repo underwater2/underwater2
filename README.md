@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 <!-- 헤더 출처: https://github.com/kyechan99/capsule-render -->
 <!-- customColorList=2,3(연두-하늘),14,15,18(연보라-분홍) -->
-![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=3&type=waving&height=130&text=YunjiPark&fontSize=40&fontAlign=14&fontAlignY=40&reversal=true)
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=3&type=waving&height=130&text=YunjiPark&fontSize=40&fontAlign=14&fontAlignY=40&reversal=true&fontColor=1F2328)
 
 ## About Me 👋
 - Currently, I'm working as a Web Developer.
